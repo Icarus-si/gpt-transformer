@@ -2,7 +2,7 @@
 
 A GPT-style transformer language model built from scratch using pure PyTorch, trained on Python code to generate syntactically valid Python completions. No HuggingFace shortcuts — every component written by hand.
 
-Built by Abhay Singh Wazir, Master of Data Science student at Deakin University, Melbourne.
+Built by Abhay Singh Wazir, Master of Data Science (Professional) student at Deakin University, Melbourne.
 
 ---
 
